@@ -38,7 +38,7 @@ Typecho 个人支付宝微信收款插件及VIP会员系统，可设置登录可
 答：2020年2月22日正式发布。 
 
 ## 四、能够给个演示站点看看？ ##  
-答：本站使用的就是你们将会看到的版本，前台购买界面与TePay一样，用户注册地址为：https://pangsuan.com/tepass/signup ，注册登录后就是你看到的会员中心，设置界面需要管理员才能看到。  
+答：本站使用的就是你们将会看到的版本，前台购买界面与TePay一样，用户注册地址为：https://store.pangsuan.com/tepass/signup ，注册登录后就是你看到的会员中心，设置界面需要管理员才能看到。  
 1、Typecho爱好者：https://qqdie.com/archives/typecho-teposter-plugin.html  
 2、翘课网：https://www.qioke.com/tougao.html  
 3、高考学子网：https://payas.cn/archives/8.html  
