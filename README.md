@@ -4,6 +4,7 @@ Typecho 个人支付宝微信收款插件及VIP会员系统，可设置登录可
 它跟 TePay 的不同之处在于，TePay 只是一款个人支付宝微信收款插件，带了费用记录和订单查询功能，比较简单和纯粹一些；而 TePass 在此基础了增加了会员这块的功能，可以购买VIP会员，终身会员，设置登录可见，会员可见，VIP会员价格，终身会员价格。  
 
 插件介绍：https://store.pangsuan.com/p/tepass.html  
+介绍地址：http://forum.typecho.org/viewtopic.php?f=6&t=12265
 演示地址：https://store.pangsuan.com/p/tepass.html  
 推荐个人微信收款平台：https://payjs.cn/ref/zgpnbd    
 
